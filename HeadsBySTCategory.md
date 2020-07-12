@@ -37,46 +37,35 @@
 | MCM | Micro-management                       |   |
 |     | **Learning Organizaton**               |   |
 | MEM | Mental Models of Risk Management       |   |
-
-  Risk Attitude [OC]
-  Social influence [OC]
-  Ethics [C]
-  Engagement [C]
-  Handling conflict [OCP]
-  Accountable Decision Making [OC]
-  Problem solving skills [CP]
-  Just culture [OCP]
-
-**Monitoring & Influencing External Parties**
- 
-  Threat intelligence [CP]
-  Monitor regulatory action and
-  advice [CP]
-  Monitor legislation [CP]
-  Peer Exchange of Views [CP]
-  Lobbying [OCP]
-  Monitoring public & media
-  [CP]
-  Market awareness – Skills &
-  Technology [CP]
-  Political Landscape [OCP]
-  Commercial Rivals [OCP]
-
-**Technical Strategy**
-
-Monitoring, Detection & Response
-Anti-malware Strategies [CPT]
-IDAM & PAM [CPT]
-Data leakage protection
-  (including Encryption) [CPT]
-  Denial of service protection
-  [CPT]
-  Application control & SecDevOps
-  [CPT]
-  Boundary/Entry Point Management [CPT]
-  Network Access Control
-  [CPT]
-  Physical Plant Protection
+| ATT | Risk Attitude                          |   |
+| SOC | Social influence                       |   |
+| ETH | Ethics                                 |   |
+| ENG | Engagement                             |   |
+| CON | Handling conflict                      |   |
+| ACD | Accountable Decision Making            |   |
+| PRS | Problem solving skills                 |   |
+| JUC | Just culture                           |   |
+|     | **Monitoring & Influencing External Parties** |   |
+| THI | Threat intelligence                    |   |
+| REG | Monitor regulatory action and advice   |   |
+| LEG | Monitor legislation                    |   |
+| EXC | Peer Exchange of Views                 |   |
+| LOB | Lobbying                               |   |
+| PUM | Monitoring public & media opinion      |   |
+| TEC | New Technologies                       |   |
+| SKL | Skills Requirements                    |   |
+| POL | Political Landscape                    |   |
+| RIV | Commercial Rivals                      |   |
+|     | **Technical Strategy**                 |   |
+| MDR | Monitoring, Detection & Response       |   |
+| AMS | Anti-malware Strategies                |   |
+| IDM | Identity and Access Management         |   |
+| DLP | Data Leakage Protection                |   |
+| DOS | Denial of service protection           |   |
+| APS | Application Security                   |   |
+| BEM | Boundary/Entry Point Management        |   |
+| NAC | Network Access Control                 |   |
+| PPP | Physical Plant Protection              |   |
 
 
   
