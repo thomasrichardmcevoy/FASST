@@ -2,7 +2,7 @@
 
 | Tag |Factor                                  | Description                                                                                                 |
 | ----| ----------------------------------     | -----------------                                                                                           |
-|     | **Control & Feedback**                 | Capability to monitor and affect status of system                                                           |
+|     | **Control & Feedback**                 | *Capability to monitor and affect status of system*                                                          |
 | PCT | Professional & Technical Communication | Communication techniques and strategies to convey audience specific messages about security and risk        |
 | GRC | Governance, Risk and Compliance        | Oversight and reporting on the effectiveness of security management in the organization                     |  
 | STR | Strategy                               | Long term planning to achieve organizational security goals in line with business objectives                |
@@ -11,43 +11,44 @@
 | OPM | Operating Model                        | The design of the operating management structures and processes                                             |
 | DWT | Workflow Integration                   | The integration of work processes both vertically and horizontally between divisions and teams              |
 | PJM | Project Management                     | Planning, progressing and reporting on projects to achieve program goals                                    |
-| QMT | Quality Management                     |   |
-| TST | Functional Testing                     |   |
-| SDL | Secure Development Lifecycle           |   |
-| INC | Incident Response                      |   | 
-| CNT | Contingency Planning                   |   |
-| DRP | Disaster Recovery                      |   |
-|     | **Costs**                              | Costs of running a security system throughout the organization                                              |
-| INV | Investment Levels                      |   |
-| HYG | Hygiene Factors                        |   |
-| HUM | Human Resources                        |   |
-| CAP | Capability & Training                  |   |
-| MAT | Means & materials                      |   |
-| REJ | Reward & Discipline systems            |   |
-| RMA | Risk Management Approach               |   |
-| MET | Return on Investment                   |   |
-|     |  **Work Load**                         |  Work load associated with various operations                                                               |
-| EUS | End User Support                       |   |
-| UAT | User Acceptance Testing                |   |
-| EFF | Effort Perception                      |   |
-| SYP | Perceived System Performance           |   |
-| WDP | Work Design & Participation            |   |
-| TIM | Time Management                        |   |
-| PRM | Priority Management                    |   |
-| MCM | Micro-management                       |   |
-|     | **Learning Organizaton**               |  Capability of the organization to learn and change in response to new information                          |
-| MEM | Mental Models of Risk Management       |   |
-| ATT | Risk Attitude                          |   |
-| SOC | Social influence                       |   |
-| ETH | Ethics                                 |   |
-| ENG | Engagement                             |   |
-| CON | Handling conflict                      |   |
-| ACD | Accountable Decision Making            |   |
-| PRS | Problem solving skills                 |   |
-| JUC | Just culture                           |   |
-|     | **Monitoring & Influencing External Parties** | Similar to control and feedback, but applied to working with external organizations                   |
-| THI | Threat intelligence                    |   |
-| REG | Monitor regulatory action and advice   |   |
+| QMT | Quality Management                     | Using control and feedback mechanisms during the design of a system to ensure it meets defined goals        |
+| TST | Functional Testing                     | Ensuring that a technical system meets its functional goals by design and running specified trials          |
+| SDL | Secure Development Lifecycle           | Ensuring that the lifecycle for developing, running and end of life activities incorporates security aspects|
+| INC | Incident Response                      | Planning and capability to respond to a security incident when it occurs                                    | 
+| CNT | Contingency Planning                   | Capability to run all or part of a business post-incident while the business is in recovery mode            |
+| DRP | Disaster Recovery                      | Ability to recover from an environmental or security insult in a timely fashion                             |
+| BCT | Business Continuity                    | Capability to return to business normality following a security incident requiring DR and Contingency       |
+|     | **Costs**                              | *Costs of running security systems throughout the organization*                                              |
+| INV | Investment Levels                      | Amount of investment in security                                                                            |
+| HYG | Hygiene Factors                        | Factors where investment maintains security posture                                                         |
+| HUM | Human Resources                        | Personnel belonging to the organization with specific reference to their utilization in work activities     |
+| CAP | Capability & Training                  | The skill level of human resources and measures to maintain or increase this through training               |
+| MAT | Means & materials                      | The provision of material goods and system capabilities/processes to achieve a task                         |
+| RMA | Risk Management Approach               | Risk analysis and management methodology and overall approach to timing and direction of risk A & M         |
+| ROI | Return on Investment                   | Measures to ensure that the worth of security investment is measured                                        |
+|     |  **Work Load**                         | Work load associated with security operations                                                               |
+| EUS | End User Support                       | Support in place to ensure end users can understand and apply security measures                             |
+| UAT | User Acceptance Testing                | Testing by users of security measures before implementation to ensure fitness for purpose                   |
+| EFF | Effort Perception                      | Perceived effort by users for carrying out security processes                                               |
+| SYP | Perceived System Performance           | Perceived system performance of security measures                                                           |
+| WDP | Work Design & Participation            | Involvement of end users and operators in design of systems to carry out security processes                 |
+| TIM | Time Management                        | Capability of users to manage their time in relation to security processes v work                           |
+| PRM | Priority Management                    | Capability of users to manage their priorities in relation to security processes v work                     |
+| MCM | Micro-management                       | Overly detailed management of security processes by management                                              |
+|     | **Learning Organizaton**               | *Capability of the organization to learn and change in response to new information*                         |
+| MEM | Mental Models of Risk Management       | Perception and approach in relation to risk management strategies                                           |
+| ATT | Risk Attitude                          | Attitude to taking risks in the organization                                                                |
+| SOC | Social influence                       | The social influence of others (colleagues, management, experts) on security practice                       |
+| ETH | Ethics                                 | Adherence to a inner set of values with relation to good security practice                                  |
+| ENG | Engagement                             | Emotional commitment to carrying out value-laden directives                                                 |
+| CON | Handling conflict                      | Capability to deal logically and openly with disagreements about security and work design                   |
+| ACD | Accountable Decision Making            | Ensuring that decisions are rationally based and that decision making is enabling not disabling             |
+| PRS | Problem solving skills                 | Capability to engagement in different types of problem solving strategies                                   |
+| REJ | Reward & Discipline systems            | Systems in work for assigning credit or blame and their exercise                                            |
+| MET | Metrics                                | Metrics to measures the effectiveness of security                                                           |
+|     | **Monitoring & Influencing External Parties** | *Similar to control and feedback, but applied to working with external organizations*                |
+| THI | Threat intelligence                    | Information about potential threats or threat sources relevant to the security of the organization          |
+| REG | Monitor regulatory action and advice   | Tracking proposed or actual changes to regulation                                                           |
 | LEG | Monitor legislation                    |   |
 | EXC | Peer Exchange of Views                 |   |
 | LOB | Lobbying                               |   |
@@ -56,7 +57,7 @@
 | SKL | Skills Requirements                    |   |
 | POL | Political Landscape                    |   |
 | RIV | Commercial Rivals                      |   |
-|     | **Technical Strategy**                 |    Key aspects of technical security response                                                                |
+|     | **Technical Strategy**                 |    *Key aspects of technical security response*                                                                |
 | MDR | Monitoring, Detection & Response       |   |
 | AMS | Anti-malware Strategies                |   |
 | IDM | Identity and Access Management         |   |
