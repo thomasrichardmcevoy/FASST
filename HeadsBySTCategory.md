@@ -18,6 +18,16 @@
 | CNT | Contingency Planning                   | Capability to run all or part of a business post-incident while the business is in recovery mode            |
 | DRP | Disaster Recovery                      | Ability to recover from an environmental or security insult in a timely fashion                             |
 | BCT | Business Continuity                    | Capability to return to business normality following a security incident requiring DR and Contingency       |
+| ASM | Asset Management                       | Knowledge of specific assets in relation to business goals and their current status                         |
+| MDR | Monitoring, Detection & Response       |  Part of control and feedback - capability to detect and respond to security incidents as they occur        |
+| AMS | Anti-malware strategies                | Capability to detect and prevent malware from propagating on systems                                        |
+| IDM | Identity and Access Management         |  Capability to define roles and responsibilities and authorise and authenticate such activities             |
+| DLP | Data Leakage Protection                | Knowledge of information assets and capability to detect activities which may leak or expose them           |
+| DOS | Denial of service protection           | Ability to detect and prevent or manage denial of service attacks while minimizing business impact           |
+| APS | Application Security                   | Control over the development of application security through its lifetime, including security characteristics  |
+| BEM | Boundary/Entry Point Management        |  Knowledge of and the capability to monitor touchpoints to external systems e.g. 3rd parties                |
+| NAC | Network Access Control                 |  Capability to monitor and control traffic flows on the internal network to achieve security goals         |
+| PPP | Physical Plant Protection              |  Capability to protect the physical environment including systems and buildings                            |
 |     | **Costs**                              | *Costs of running security systems throughout the organization*                                              |
 | INV | Investment Levels                      | Amount of investment in security                                                                            |
 | HYG | Hygiene Factors                        | Factors where investment maintains security posture                                                         |
@@ -49,39 +59,14 @@
 |     | **Monitoring & Influencing External Parties** | *Similar to control and feedback, but applied to working with external organizations*                |
 | THI | Threat intelligence                    | Information about potential threats or threat sources relevant to the security of the organization          |
 | REG | Monitor regulatory action and advice   | Tracking proposed or actual changes to regulation                                                           |
-| LEG | Monitor legislation                    |   |
-| EXC | Peer Exchange of Views                 |   |
-| LOB | Lobbying                               |   |
-| PUM | Monitoring public & media opinion      |   |
-| TEC | New Technologies                       |   |
-| SKL | Skills Requirements                    |   |
-| POL | Political Landscape                    |   |
-| RIV | Commercial Rivals                      |   |
-|     | **Technical Strategy**                 |    *Key aspects of technical security response*                                                                |
-| MDR | Monitoring, Detection & Response       |   |
-| AMS | Anti-malware Strategies                |   |
-| IDM | Identity and Access Management         |   |
-| DLP | Data Leakage Protection                |   |
-| DOS | Denial of service protection           |   |
-| APS | Application Security                   |   |
-| BEM | Boundary/Entry Point Management        |   |
-| NAC | Network Access Control                 |   |
-| PPP | Physical Plant Protection              |   |
-
-
-  
- 
-
-
-
-  
- 
-
- 
-
-
- 
-
+| LEG | Monitor legislation                    | Monitoring proposed or actual change to legislation                                                         |
+| EXC | Peer Exchange of Views                 | Exchanging knowledge and experiences with industry counterparts                                             |
+| LOB | Lobbying                               | Seeking to influence either formally or informally legislative and regulatory bodies                        |
+| PUM | Monitoring public & media opinion      | Tracking changes to public and media opinion which may give threat intelligence                             |
+| TEC | New Technologies                       | Tracking the emergence of new technologies which the organization could take advantage of                   |
+| SKL | Skills Requirements                    | Determining what novel skills may be needed to address emerging technologies or threats                     |
+| POL | Political Landscape                    | Tracking changes to the political landscape which may provided threat intelligence                          |
+| RIV | Commercial Rivals                      | Tracking the actions of commercial rivals and also their experiences which may give threat intelligence     |
 
 
   
