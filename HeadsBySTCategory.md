@@ -3,7 +3,7 @@
 | Tag |Factor                                  | Description                                                                                                 |
 | ----| ----------------------------------     | -----------------                                                                                           |
 |     | **Control & Feedback**                 | *Capability to monitor and affect status of system*                                                          |
-| PCT | Professional & Technical Communication | Communication techniques and strategies to convey audience specific messages about security and risk        |
+| [PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) | Professional & Technical Communication | Communication techniques and strategies to convey audience specific messages about security and risk        |
 | GRC | Governance, Risk and Compliance        | Oversight and reporting on the effectiveness of security management in the organization                     |  
 | STR | Strategy                               | Long term planning to achieve organizational security goals in line with business objectives                |
 | PRM | Program Management                     | Coordination of individual projects to achieve an overall organizational goal in line with strategic aims   |
