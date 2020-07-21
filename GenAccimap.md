@@ -24,30 +24,30 @@
 |      |18.     |PPAA18 |Group & teamwork| 
 |      |19.     |PPAA19 |Judgement & decision-making| 
 |      |20.     |PPAA20 |Other| 
-| |21. |Personnel management & workloads 
-| |22. |Physical & mental condition 
-| |23. |Planning & preparation  
-| |24. |Qualification, training, experience & competence 
-| |25. |Risk assessment & management 
-| |26. |Situation awareness 
-| |27. |Supervision & leadership 
-| |28. |Time-related 
-| |29. |Weather, climate & natural processes
-|Technical and operational management 
-|TOM |30. Communication & coordination 
-|TOM |31. Compliance with procedures, violations & unsafe acts
-|TOM |32. Culture
-|TOM |33. Equipment & environmental design 
-|TOM |34. Financial pressures
-|TOM |35. Judgement & decision-making 
-|TOM |36. Other GPB 
-|TOM |37. Personnel management & recruitment
-|TOM |38. Planning & preparation
-|TOM |39. Policy 
-|TOM |40. Qualification, training, experience & competence
-|TOM |41. Risk assessment & management
-|TOM |42. Supervision
-|TOM |43. Time-related
+|      |21.     |PPAA21 |Personnel management & workloads| 
+|      |22.     |PPAA22 |Physical & mental condition| 
+|      |23.     |PPAA23 |Planning & preparation|  
+|      |24.     |PPAA24 |Qualification, training, experience & competence| 
+|      |25.     |PPAA25 |Risk assessment & management| 
+|      |26.     |PPAA26 |Situation awareness| 
+|      |27.     |PPAA27 |Supervision & leadership| 
+|      |28.     |PPAA28 |Time-related| 
+|      |29.     |PPAA29 |Weather, climate & natural processes|
+|TOM   |        |TOM0   |Technical and operational management| 
+|TOM   |30.     |TOM30  |Communication & coordination| 
+|TOM   |31.     |TOM31  |Compliance with procedures, violations & unsafe acts|
+|TOM   |32.     |TOM32  |Culture|
+|TOM   |33.     |TOM33  |Equipment & environmental design| 
+|TOM   |34.     |TOM34  |Financial pressures|
+|TOM   |35.     |TOM35  |Judgement & decision-making| 
+|TOM   |36.     |TOM36  |Other|   
+|TOM   |37.     |TOM37  |Personnel management & recruitment|
+|TOM   |38.     |TOM38  |Planning & preparation|
+|TOM   |39.     |TOM39  |Policy| 
+|TOM   |40.     |TOM40  |Qualification, training, experience & competence|
+|TOM   |41.     |TOM41  |Risk assessment & management|
+|TOM   |42.     |TOM42  |Supervision|
+|TOM   |43. Time-related
 |Local area government, planning and budgeting and company management
 |LAGCM| 44. Communication & coordination
 |LAGCM| 45. Compliance with procedures, violations & unsafe acts
