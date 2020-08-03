@@ -3,19 +3,21 @@
 **Capability**
 
 Professional and technical communication refers to the capability to use all forms of media - verbal, textual and visual - to communicate the technical and business aspects of
-security risk to both senior manager and junior staff by technical experts and operational managers.  It also refers to senior manager's capability to communicate policy, vision and goals to the organization and for regulators and legislators both to understand sector needs and formulate policy, legislation and regulation in a comprehensible manner.
+security risk wtih both senior manager and junior staff by technical experts and operational managers.  
+
+To some extent, it also refers to senior manager's capability to communicate policy, vision and goals to the organization. to regulators and legislators both to understand sector needs and formulate policy, legislation and regulation in a comprehensible manner and for junior staff to communicate with each other.
 
 **Deficit Risk Factors**
 
-Senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error. Mental models of security risk will be deficit (1).  Government and regulatory bodies may communicate policy poorly or be ill-advised on risks and countermeasures.
+Senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. Mental models of security risk will be deficit (1).  Government and regulatory bodies may communicate policy poorly or be ill-advised on risks and countermeasures.
 
 **Generic Accimap Levels**
 
-- PPAA 14, 15, 18, 19, 24, 25, 26, 27
-- TOM 30, 32, 39, 40, 41, 42
-- LAGCM 44, 45, 46, 48, 52
-- RBA 58, 59, 62, 69, 72
-- GPB 72, 74, 75 
+- PPAA 14, 15, 16, 17, 18, 19, 24, 25, 26, 27
+- TOM 30, 31, 32, 35, 39, 40, 41, 42
+- LAGCM 44, 45, 46, 48, 52, 53, 54, 55
+- RBA 57, 58, 59, 60, 62, 64, 66, 67, 69
+- GPB 70, 72, 73,  74, 75, 78 
 
 **Adapted Rassmussen 5 Factor Analysis**
 
@@ -36,7 +38,7 @@ tactics and hence affect power chances for security goals. The processes of the 
 
 **Recommended Countermeasures**
 
-Ensure that all technical experts and operational managers achieve certification in professional and technical communication for engineers.  Senior managers should employ professional communications experts as part of their messaging strategy, both internally and externally. Legislators and regulators should similarly employ professional communicators such as technical writers.
+Ensure that all technical experts and operational managers achieve certification in professional and technical communication for engineers.  Senior managers should employ professional communications experts as part of their messaging strategy, both internally and externally. Legislators and regulators should similarly employ professional communicators such as technical writers.  Junior staff should receive some basic training in clear communication techniques.
 
 **References**
 
