@@ -33,7 +33,7 @@
 |      |27.     |PPAA27 |Supervision & leadership| 
 |      |28.     |PPAA28 |Time-related| 
 |      |29.     |PPAA29 |Weather, climate & natural processes|
-|TOM   |        |TOM0   |Technical and operational management| 
+|TOM   |        |TOM0   |*Technical and operational management*| 
 |TOM   |30.     |TOM30  |Communication & coordination| 
 |TOM   |31.     |TOM31  |Compliance with procedures, violations & unsafe acts|
 |TOM   |32.     |TOM32  |Culture|
@@ -47,43 +47,43 @@
 |TOM   |40.     |TOM40  |Qualification, training, experience & competence|
 |TOM   |41.     |TOM41  |Risk assessment & management|
 |TOM   |42.     |TOM42  |Supervision|
-|TOM   |43. Time-related
-|Local area government, planning and budgeting and company management
-|LAGCM| 44. Communication & coordination
-|LAGCM| 45. Compliance with procedures, violations & unsafe acts
-|LAGCM| 46. Culture
-|LAGCM |47. Financial pressures
-|LAGCM |48. Judgement & decision-making
-|LAGCM |49. Other
-|LAGCM |50 Personnel management & recruitment
-|LAGCM |51. Planning & preparation
-|LAGCM |52. Policy & procedures
-|LAGCM |53. Qualification, training, experience & competence
-|LAGCM |54. Risk assessment & management
-|LAGCM |55. Supervision
-|LAGCM |56. Time-related
-|Regulatory bodies and associations
-|RBA |57. Audits & inspections
-|RBA |58. Communication & coordination
-|RBA |59. Compliance with procedures, violations & unsafe acts
-|RBA |60. Culture
-|RBA |61. Financial pressures
-|RBA |62. Judgement & decision-making
-|RBA |63. Planning & preparation
-|RBA |64. Qualification, training, experience & competence
-|RBA |65. Regulatory structures & services
-|RBA |66. Risk assessment & management
-|RBA |67. Standards, policy & regulations
-|RBA |68. Time-related
-|RBA |69. Unclear roles & responsibilities
-|Government policy and budgeting
-|GPB |70. Action omitted & failure to act
-|GPB |71. Budget & finance
-|GPB |72. Communication & coordination
-|GPB |73. Culture
-|GPB |74. Judgement & decision-making
-|GPB |75. Policy, legislation & regulation
-|GPB |76. Political structures & services
-|GPB |77. Priorities
-|GPB |78. Qualification, training, experience & competence
-|GPB |79. Supervision & Enforcement
+|TOM   |43.     |TOM43  |Time-related|
+|LAGCM |        |LAGCM0 |*Local area government, planning and budgeting and company management*|
+|LAGCM| 44.     |LAGCM44 |Communication & coordination|
+|LAGCM| 45.     |LAGCM45 |Compliance with procedures, violations & unsafe acts|
+|LAGCM| 46.     |LAGCM46 |Culture|
+|LAGCM |47.     |LAGCM47 |Financial pressures|
+|LAGCM |48.     |LAGCM48 |Judgement & decision-making|
+|LAGCM |49.     |LAGCM49 |Other|
+|LAGCM |50      |LAGCM50 |Personnel management & recruitment|
+|LAGCM |51.     |LAGCM51 |Planning & preparation|
+|LAGCM |52.     |LAGCM52 |Policy & procedures|
+|LAGCM |53.     |LAGCM53 |Qualification, training, experience & competence|
+|LAGCM |54.     |LAGCM54 |Risk assessment & management|
+|LAGCM |55.     |LAGCM55 |Supervision|
+|LAGCM |56.     |LAGCM56 |Time-related|
+|RBA   |        |RBA0    |*Regulatory bodies and associations*|
+|RBA   |57.     |RBA57   |Audits & inspections|
+|RBA   |58.     |RBA58   |Communication & coordination|
+|RBA   |59.     |RBA59   |Compliance with procedures, violations & unsafe acts|
+|RBA   |60.     |RBA60   |Culture|
+|RBA   |61.     |RBA61   |Financial pressures|
+|RBA   |62.     |RBA62   |Judgement & decision-making|
+|RBA   |63.     |RBA63   |Planning & preparation|
+|RBA   |64.     |RBA64   |Qualification, training, experience & competence|
+|RBA   |65.     |RBA65   |Regulatory structures & services|
+|RBA   |66.     |RBA66   |Risk assessment & management|
+|RBA   |67.     |RBA67   |Standards, policy & regulations|
+|RBA   |68.     |RBA68   |Time-related|
+|RBA   |69.     |RBA69   |Unclear roles & responsibilities|
+|GPB   |        |GBP0    |Government policy and budgeting|
+|GPB   |70.     |GBP70   |Action omitted & failure to act|
+|GPB   |71.     |GBP71   |Budget & finance|
+|GPB   |72.     |GBP72   |Communication & coordination|
+|GPB   |73.     |GBP73   |Culture|
+|GPB   |74.     |GBP74   |Judgement & decision-making|
+|GPB   |75.     |GBP75   |Policy, legislation & regulation|
+|GPB   |76.     |GBP76   |Political structures & services|
+|GPB   |77.     |GBP77   |Priorities|
+|GPB   |78.     |GBP78   |Qualification, training, experience & competence|
+|GPB   |79.     |GBP79   |Supervision & Enforcement|
