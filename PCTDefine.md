@@ -7,30 +7,28 @@ security risk to both senior manager and junior staff by technical experts and o
 
 **Deficit Risk Factors**
 
-Senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior staff may misunderstand policy, guidance or procedures and act in error. Mental models of security risk will be deficit - Refout
+Senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior staff may misunderstand policy, guidance or procedures and act in error. Mental models of security risk will be deficit (1).
 
 **Generic Accimap Levels**
 
-*At levels*
-
-TOM 30  Communication & Coordination
-TOM 32  Culture
-TOM 39  Policy & Procedures
-TOM 40  Qualification, training, experience & competence
-TOM 41  Risk Assessment and Management
-TOM 42  Supervision
-
-*Takes from*
-
-
-          
-*Gives to*
-
-
+- TOM30  Communication & Coordination
+- TOM32  Culture
+- TOM39  Policy & Procedures
+- TOM40  Qualification, training, experience & competence
+- TOM41  Risk Assessment and Management
+- TOM42  Supervision
 
 **Adapted Rassmussen Factor Analysis**
 
-Poor communication affects the characteristics of control and feedback by either (i) preventing commands from being executed properly or else (ii) preventing the status of a system being properly understood.
+Poor communication affects the characteristics of [control and feedback] and [learning culture] -
+
+1. preventing commands from being executed properly or else 
+2. preventing the status of a system being properly understood.
+3. Creating a barrier to comprehension and learning
+
+**FASST Dependencies**
+
+Poor communication can affect [mental models] of risk.
 
 **Sociotechnical Aspects (COPT)**
 
@@ -43,5 +41,5 @@ Ensure that all technical experts and operational managers achieve certification
 
 **References**
 
-Boiarsky, C. (2016). Risk Communication and Miscommunication: Case Studies in Science, Technology, Engineering, Government, and Community Organizations. 
+(1) Boiarsky, C. (2016). Risk Communication and Miscommunication: Case Studies in Science, Technology, Engineering, Government, and Community Organizations. 
 University Press of Colorado.
