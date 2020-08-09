@@ -51,6 +51,8 @@
 | SOC | Social influence                       | The social influence of others (colleagues, management, experts) on security practice                       |
 | ETH | Ethics                                 | Adherence to a inner set of values with relation to good security practice                                  |
 | ENG | Engagement                             | Emotional commitment to carrying out value-laden directives                                                 |
+| ENV | Environmental Design                   | The environment is designed in a way which facilitates adherence to cyber security policy                   |
+| ORG | Organisational Design                  | Work patterns and team organization facilitate adherence to cyber security policy                           |
 | CON | Handling conflict                      | Capability to deal logically and openly with disagreements about security and work design                   |
 | ACD | Accountable Decision Making            | Ensuring that decisions are rationally based and that decision making is enabling not disabling             |
 | PRS | Problem solving skills                 | Capability to engagement in different types of problem solving strategies                                   |
@@ -67,11 +69,3 @@
 | SKL | Skills Requirements                    | Determining what novel skills may be needed to address emerging technologies or threats                     |
 | POL | Political Landscape                    | Tracking changes to the political landscape which may provided threat intelligence                          |
 | RIV | Commercial Rivals                      | Tracking the actions of commercial rivals and also their experiences which may give threat intelligence     |
-
-
-  
- 
-
-
-
-
