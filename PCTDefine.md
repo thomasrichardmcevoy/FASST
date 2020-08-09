@@ -20,8 +20,6 @@ As a result, senior managers may not understand security priorities or what acti
 
 ## Mapping to Generic Accimap
 
-Search CAT + Number
-
 |Category | Number |
 | --- | --- |
 |PPAA  | 14, 15, 16, 17, 18, 19, 24, 25, 26, 27|
