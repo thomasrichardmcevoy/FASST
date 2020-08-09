@@ -2,37 +2,43 @@
 
 ## Capability
 
-Professional and technical communication refers to the capability to use all forms of media - verbal, textual and visual - to communicate the technical and business aspects of
-security risk wtih both senior manager and junior staff by technical experts and operational managers.  
-
-To some extent, it also refers to senior manager's capability to communicate policy, vision and goals to the organization. to regulators and legislators both to understand sector needs and formulate policy, legislation and regulation in a comprehensible manner and for junior staff to communicate with each other.
+A mental model is a cognitive map used by individuals in decision-making.  In cybersecurity, we assume that risks should represent a rational view of loss exposure from the point of view of the organization and that risk management approaches ought to represent a cost-effective response to diminishing this loss exposure.  But decision-makers and actors may not have mental models of cybersecurity risk which meet these goals. Indeed, the present of cognitive biases makes this almost certain. Gaps can also arise where an appreciation of possible cybersecurity strategies and tactics is absent. However, taking steps to diminish the effects of cognitive biases and to expand knowledge of cybersecurity strategies and possibilities can shrink these effects, moving the organization as a whole towards an improved mental model of risk.  This can affect all levels of the organization from senior managers to the shop floor. It also influences legislators and regulators.  Improved risk models should lead to more cost-effective risk strategies, optimizing security spend in the long term.  Almost certainly, a key factor in this is to move to quantitative risk management.
 
 ## Deficits
 
-Poor communication affects the characteristics of control and feedback and learning culture -
+A poor mental model of risk may result in -
 
-1. preventing commands from being executed properly or else 
-2. preventing the status of a system being properly understood.
-3. creating a barrier to comprehension and learning
-4. distorting mental models of risk [MEM]
+1. Increased effects of cognitive biases distorting decision-making [^1]
+2. Employing a limited number of cybersecurity strategies or tactics [^2]
+3. Under- or over- estimating risk [^3]
+4. Inconsistent understanding of risk in different parts and layers of the organization [^4]
 
-As a result, senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. Government and regulatory bodies may communicate policy poorly or be ill-advised on risks and countermeasures [^1].
+Legislators and regulators can "gold plate" risk management guidance as can risk advisors and consultants - or they may misunderstand the seriousness of a risk.  Senior management may as a result end up overspending on risk or refuse to spend on risk because the costs appear (intuitively) excessive or the risk minimal. Tick-box compliance can result. 
+
+Junior managers and staff may not understand the risks they are dealing with and take actions which appear safe to them (due to no previous experience of negative outcomes) but are, in fact, increasing their exposure to potential loss.  As a result, policy and procedures can be slackened - particularly, if this also eases the work burden.  
+
+If burdensome risk measures are implemented and strictly enforced, work burdens can increases affecting productivity and costs.  Another possible effect is that progress on developing systems is halted by a view of associated risks being excessive.
 
 ## Mapping to Generic Accimap
 
 |Category | Number |
 | --- | --- |
-|PPAA  | 14, 15, 16, 17, 18, 19, 24, 25, 26, 27|
-|TOM   |30, 31, 32, 35, 39, 40, 41, 42|
-|LAGCM | 44, 45, 46, 48, 52, 53, 54, 55|
-|RBA   |57, 58, 59, 60, 62, 64, 66, 67, 69|
-|GPB   |70, 72, 73,  74, 75, 78 |
+|PPAA  ||
+|TOM   ||
+|LAGCM ||
+|RBA   ||
+|GPB   | |
 
 ## Recommended Countermeasures
 
-Ensure that all technical experts and operational managers achieve certification in professional and technical communication for engineers.  Senior managers should employ professional communications experts as part of their messaging strategy, both internally and externally. Legislators and regulators should similarly employ professional communicators such as technical writers.  Junior staff should receive some basic training in clear communication techniques.
+Organizations should adopt quantitative risk analysis and management e.g. FAIR [^5].  Management awareness of cybersecurity strategies should be expanded through training to include both technical and non-technical (human and organizational) elements and cover all risk mitigation strategies (treat, avoid, transfer, accept) as well as tactics covering a wide range of possible countermeasures (e.g. NIST CSF - Identify, Protect, Detect, Respond, Recover)[^6][^7]. Training using gamification of cybersecurity thinking may be useful[^1]. Risk management tactics should employ a range of measures rather than focusing on a single area and awareness of how countermeasures relate each other should form part of this analysis [^5]. 
 
 ## References
 
-[^1] Boiarsky, C. (2016). Risk Communication and Miscommunication: Case Studies in Science, Technology, Engineering, Government, and Community Organizations. 
-University Press of Colorado.
+[^1] Jalali, M. S., Siegel, M., & Madnick, S. (2019). Decision-making and biases in cybersecurity capability development: Evidence from a simulation game experiment. The Journal of Strategic Information Systems, 28(1), 66-82.
+[^2]
+[^3]
+[^4]
+[^5]
+[^6]
+[^7]
