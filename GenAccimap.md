@@ -35,14 +35,14 @@
 |      |29.     |PPAA29 |Weather, climate & natural processes||
 |TOM   |        |TOM0   |*Technical and operational management*|| 
 |   |30.     |TOM30  |Communication & coordination| [PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
-|   |31.     |TOM31  |Compliance with procedures, violations & unsafe acts|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
-|   |32.     |TOM32  |Culture|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
+|   |31.     |TOM31  |Compliance with procedures, violations & unsafe acts|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
+|   |32.     |TOM32  |Culture|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |33.     |TOM33  |Equipment & environmental design| |
 |   |34.     |TOM34  |Financial pressures||
-|   |35.     |TOM35  |Judgement & decision-making|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)| 
+|   |35.     |TOM35  |Judgement & decision-making|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)| 
 |   |36.     |TOM36  |Other||   
 |   |37.     |TOM37  |Personnel management & recruitment||
-|   |38.     |TOM38  |Planning & preparation||
+|   |38.     |TOM38  |Planning & preparation|| 
 |   |39.     |TOM39  |Policy| [PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)|
 |   |40.     |TOM40  |Qualification, training, experience & competence|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |41.     |TOM41  |Risk assessment & management|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
@@ -58,13 +58,13 @@
 | |50      |LAGCM50 |Personnel management & recruitment||
 | |51.     |LAGCM51 |Planning & preparation||
 | |52.     |LAGCM52 |Policy & procedures|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)|
-| |53.     |LAGCM53 |Qualification, training, experience & competence|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
+| |53.     |LAGCM53 |Qualification, training, experience & competence|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 | |54.     |LAGCM54 |Risk assessment & management|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 | |55.     |LAGCM55 |Supervision|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)|
 | |56.     |LAGCM56 |Time-related|[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |RBA  |        |RBA0    |*Regulatory bodies and associations*||
 |   |57.     |RBA57   |Audits & inspections||
-|   |58.     |RBA58   |Communication & coordination|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
+|   |58.     |RBA58   |Communication & coordination|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |59.     |RBA59   |Compliance with procedures, violations & unsafe acts|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |60.     |RBA60   |Culture|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |61.     |RBA61   |Financial pressures|[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
