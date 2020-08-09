@@ -25,7 +25,7 @@ If burdensome risk measures are implemented and strictly enforced, work burdens 
 | --- | --- |
 |EES  |4, 8, 10 |
 |PPAA  |13, 14, 15, 19, 22, 25,26, 28|
-|TOM   |30, 31, 32, 40, 41, 43|
+|TOM   |30, 31, 32, 35, 40, 41, 43|
 |LAGCM |44, 45, 46, 47, 48, 53, 54, 56|
 |RBA   |58, 59, 60, 61, 62, 64, 66, 68|
 |GPB   |72, 73, 74, 78 |
