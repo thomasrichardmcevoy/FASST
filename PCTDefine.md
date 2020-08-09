@@ -14,7 +14,7 @@ Poor communication affects the characteristics of control and feedback and learn
 1. preventing commands from being executed properly or else 
 2. preventing the status of a system being properly understood.
 3. creating a barrier to comprehension and learning
-4. distorting mental models of risk [MEM]
+4. distorting mental models of risk [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)
 
 As a result, senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. Government and regulatory bodies may communicate policy poorly or be ill-advised on risks and countermeasures [^1].
 
