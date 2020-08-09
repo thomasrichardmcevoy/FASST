@@ -36,10 +36,10 @@ Organizations should adopt quantitative risk analysis and management e.g. FAIR [
 
 ## References
 
-[1] Jalali, M. S., Siegel, M., & Madnick, S. (2019). Decision-making and biases in cybersecurity capability development: Evidence from a simulation game experiment. The Journal of Strategic Information Systems, 28(1), 66-82.
-[2] Kowalski, S., & Edwards, N. (2004). A security and trust framework for a Wireless World: A Cross Issue Approach. In Wireless World Research Forum no (Vol. 12).
-[3] Lewis, J. A. (2013). Raising the bar for cybersecurity. Center for Strategic and International Studies.
-[4] De Smidt, G., & Botzen, W. (2018). Perceptions of corporate cyber risks and insurance decision-making. The Geneva Papers on Risk and Insurance-Issues and Practice, 43(2), 239-274.
-[5] Kovačević, A., Putnik, N., & Tošković, O. (2020). Factors Related to Cyber Security Behavior. IEEE Access, 8, 125140-125148.
-[6] Freund, J., & Jones, J. (2014). Measuring and managing information risk: a FAIR approach. Butterworth-Heinemann.
-[7] [NIST CSF](https://www.nist.gov/cyberframework)
+- [1] Jalali, M. S., Siegel, M., & Madnick, S. (2019). Decision-making and biases in cybersecurity capability development: Evidence from a simulation game experiment. The Journal of Strategic Information Systems, 28(1), 66-82.
+- [2] Kowalski, S., & Edwards, N. (2004). A security and trust framework for a Wireless World: A Cross Issue Approach. In Wireless World Research Forum no (Vol. 12).
+- [3] Lewis, J. A. (2013). Raising the bar for cybersecurity. Center for Strategic and International Studies.
+- [4] De Smidt, G., & Botzen, W. (2018). Perceptions of corporate cyber risks and insurance decision-making. The Geneva Papers on Risk and Insurance-Issues and Practice, 43(2), 239-274.
+- [5] Kovačević, A., Putnik, N., & Tošković, O. (2020). Factors Related to Cyber Security Behavior. IEEE Access, 8, 125140-125148.
+- [6] Freund, J., & Jones, J. (2014). Measuring and managing information risk: a FAIR approach. Butterworth-Heinemann.
+- [7] [NIST CSF](https://www.nist.gov/cyberframework)
