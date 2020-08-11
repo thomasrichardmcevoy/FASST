@@ -14,14 +14,14 @@ Poor communication affects the characteristics of control and feedback and learn
 1. preventing commands from being executed properly or else 
 2. preventing the status of a system being properly understood.
 3. creating a barrier to comprehension and learning
-4. distorting mental models of risk [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)
 
-As a result, senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. Government and regulatory bodies may communicate policy poorly or be ill-advised on risks and countermeasures [^1].
+As a result, senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. Government and regulatory bodies may communicate policy poorly or be ill-advised on risks and countermeasures [1].
 
 ## Mapping to Generic Accimap
 
 |Category | Number |
 | --- | --- |
+|EES     |      |
 |PPAA  | 14, 15, 16, 17, 18, 19, 24, 25, 26, 27|
 |TOM   |30, 31, 32, 35, 39, 40, 41, 42|
 |LAGCM | 44, 45, 46, 48, 52, 53, 54, 55|
@@ -30,9 +30,9 @@ As a result, senior managers may not understand security priorities or what acti
 
 ## Recommended Countermeasures
 
-Ensure that all technical experts and operational managers achieve certification in professional and technical communication for engineers.  Senior managers should employ professional communications experts as part of their messaging strategy, both internally and externally. Legislators and regulators should similarly employ professional communicators such as technical writers.  Junior staff should receive some basic training in clear communication techniques.
+Ensure that all technical experts and operational managers achieve certification in professional and technical communication for engineers.  Senior managers should employ professional communications experts as part of their messaging strategy, both internally and externally. Legislators and regulators should similarly employ professional communicators such as technical writers.  Junior staff should receive some basic training in clear communication techniques, particularly verbal communication.
 
 ## References
 
-[^1] Boiarsky, C. (2016). Risk Communication and Miscommunication: Case Studies in Science, Technology, Engineering, Government, and Community Organizations. 
+[1] Boiarsky, C. (2016). Risk Communication and Miscommunication: Case Studies in Science, Technology, Engineering, Government, and Community Organizations. 
 University Press of Colorado.
