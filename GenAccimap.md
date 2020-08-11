@@ -68,7 +68,7 @@
 |   |59.     |RBA59   |Compliance with procedures, violations & unsafe acts|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |60.     |RBA60   |Culture|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |61.     |RBA61   |Financial pressures|[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
-|   |62.     |RBA62   |Judgement & decision-making|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
+|   |62.     |RBA62   |Judgement & decision-making|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)  [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |63.     |RBA63   |Planning & preparation||
 |   |64.     |RBA64   |Qualification, training, experience & competence|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |65.     |RBA65   |Regulatory structures & services||
