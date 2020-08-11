@@ -11,7 +11,7 @@ A poor mental model of risk may result in -
 1. Increased effects of cognitive biases distorting decision-making [1]
 2. Employing a limited number of cybersecurity strategies or tactics [2]
 3. Under- or over- estimating risk [3] [4]
-4. Inconsistent understanding of risk in different parts and layers of the organization which are also partly derived from other environmental factors [ENV] [5]
+4. Inconsistent understanding of risk in different parts and layers of the organization which are also partly derived from other environmental factors [5]
 
 Legislators and regulators can "gold plate" risk management guidance as can risk advisors and consultants - or they may misunderstand the seriousness of a risk and underplay its importance.  Senior management may as a result end up overspending on risk or refuse to spend on risk because the costs appear (intuitively) excessive or the risk minimal. Tick-box compliance can result in the case of the latter. 
 
