@@ -72,7 +72,7 @@
 |   |63.     |RBA63   |Planning & preparation||
 |   |64.     |RBA64   |Qualification, training, experience & competence|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |65.     |RBA65   |Regulatory structures & services||
-|   |66.     |RBA66   |Risk assessment & management|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md) [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
+|   |66.     |RBA66   |Risk assessment & management|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)  [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |67.     |RBA67   |Standards, policy & regulations|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)|
 |   |68.     |RBA68   |Time-related|[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md)|
 |   |69.     |RBA69   |Unclear roles & responsibilities|[PCT](https://github.com/thomasrichardmcevoy/FASST/blob/master/PCTDefine.md)|
