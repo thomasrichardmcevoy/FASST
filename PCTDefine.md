@@ -3,13 +3,11 @@
 ## Capability and Deficits
 
 Professional and technical communication refers to the capability to use all forms of media - verbal, textual and visual - to communicate the technical and business aspects of
-security risk wtih both senior manager and junior staff by technical experts and operational managers.  
+security risk with both senior manager and junior staff by technical experts and operational managers.  
 
-To some extent, it also refers to senior manager's capability to communicate policy, vision and goals to the organization. to regulators and legislators both to understand sector needs and formulate policy, legislation and regulation in a comprehensible manner and for junior staff to communicate with each other.
+As a result of poor communication, senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. [1]. 
 
-As a result of poor communication, senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. Government and regulatory bodies may communicate policy poorly or be ill-advised on risks and countermeasures [1]. 
-
-Hence good communication skills at all levels of the organization underpin its cybersecurity posture and ability to deal with a changing risk environment.
+Hence good communication skills, particularly at the middle management layer, underpin its cybersecurity posture and ability to deal with a changing risk environment.
 
 ## Mapping to Generic Accimap
 
@@ -24,7 +22,7 @@ Hence good communication skills at all levels of the organization underpin its c
 
 ## Recommended Countermeasures
 
-Ensure that all technical experts and operational managers achieve certification in professional and technical communication for engineers.  Senior managers should employ professional communications experts as part of their messaging strategy, both internally and externally. Legislators and regulators should similarly employ professional communicators such as technical writers.  Junior staff should receive some basic training in clear communication techniques, particularly verbal communication.
+Ensure that all technical experts and operational managers achieve certification in professional and technical communication for engineers. 
 
 ## References
 
