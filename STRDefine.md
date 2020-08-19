@@ -29,4 +29,5 @@ Strategy needs to be set at both organizational and national level and have a so
 
 ## References
 [1] Elkhannoubi, H., & Belaissaoui, M. (2015, December). A framework for an effective cybersecurity strategy implementation: Fundamental pillars identification. In 2015 15th International Conference on Intelligent Systems Design and Applications (ISDA) (pp. 1-6). IEEE.
+
 [2] Sallos, M. P., Garcia-Perez, A., Bedford, D., & Orlando, B. (2019). Strategy and organisational cybersecurity: a knowledge-problem perspective. Journal of Intellectual Capital.
