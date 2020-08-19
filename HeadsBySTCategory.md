@@ -46,7 +46,7 @@
 | PRM | Priority Management                    | Capability of users to manage their priorities in relation to security processes v work                     |
 | MCM | Micro-management                       | Overly detailed management of security processes by management                                              |
 |     | **Learning Organizaton**               | *Capability of the organization to learn and change in response to new information*                         |
-| MEM [MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md) | Mental Models of Risk Management       | Perception and approach in relation to risk management strategies                                           |
+|[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md) | Mental Models of Risk Management       | Perception and approach in relation to risk management strategies                                           |
 | ATT | Risk Attitude                          | Attitude to taking risks in the organization                                                                |
 | SOC | Social influence                       | The social influence of others (colleagues, management, experts) on security practice                       |
 | ETH | Ethics                                 | Adherence to a inner set of values with relation to good security practice                                  |
