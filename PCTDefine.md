@@ -7,7 +7,7 @@ security risk with both senior manager and junior staff by technical experts and
 
 As a result of poor communication, senior managers may not understand security priorities or what actions are advised and make poorer decisions.  Junior management or staff may misunderstand policy, guidance or procedures and act in error.  They may also fail to coordinate actions. [1]. 
 
-Hence good communication skills, particularly at the middle management layer, underpin its cybersecurity posture and ability to deal with a changing risk environment.
+Hence good communication skills, particularly at the middle management layer, underpin its cybersecurity posture and ability to deal with a changing risk environment.  In addition, regulatory bodies and legislators should use professional and technical communication techniques to set out policy and guidance.
 
 ## Mapping to Generic Accimap
 
