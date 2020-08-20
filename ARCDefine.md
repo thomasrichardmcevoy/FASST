@@ -1,4 +1,4 @@
-# Enterprise Sscurity Architecture
+# Enterprise Security Architecture
 
 ## Capability and Deficits
 
@@ -21,7 +21,7 @@ Without a conceptual blueprint of how the organization will function, any change
 
 ## Recommended Countermeasures
 
-Enterprise security architecture should be undertaken as a serious discipline in the organization touching on its organizational structure, its workflows, operating models and technological investment.  It represents a strongly socio-technical element in the design of how businesses should operate securely [1].  Many, if not all the other factors, in this framework are impacted by the Enterprise Security Architecture of an organization [1].
+Enterprise security architecture should be undertaken as a serious discipline in the organization touching on its organizational structure, its workflows, operating models and technological investment.  It represents a strongly socio-technical element in the design of how businesses should operate securely. Many, if not all the other factors, in this framework are impacted by the Enterprise Security Architecture of an organization [1].
 
 ## References
 
