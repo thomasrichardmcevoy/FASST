@@ -12,12 +12,12 @@ Without a conceptual blueprint of how the organization will function, any change
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
-|RBA   ||
-|GPB   ||
+|EES     | 2, 3, 4, 8, 10 |
+|PPAA  | 12, 14, 17, 18, 19, 28|
+|TOM   | 30, 33, 35, 43|
+|LAGCM |44, 48, 55, 56|
+|RBA   |58, 62, 65, 67, 68, 69|
+|GPB   | 72, 74, 76, 79|
 
 ## Recommended Countermeasures
 
