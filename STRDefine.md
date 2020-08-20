@@ -15,12 +15,12 @@ a subsequent reduction in organizational resilience.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
-|RBA   ||
-|GPB   ||
+|EES     |   |
+|PPAA  | 23, 26|
+|TOM   | 30, 32, 34, 35, 37, 38, 40, 41|
+|LAGCM |44, 46, 47, 48, 51, 54, 55|
+|RBA   |58, 60, 63, 65, 66, 67|
+|GPB   |71, 72, 73, 74, 75, 76, 77|
 
 ## Recommended Countermeasures
 
