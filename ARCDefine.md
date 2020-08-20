@@ -17,7 +17,7 @@ Without a conceptual blueprint of how the organization will function, any change
 |TOM   | 30, 33, 35, 43|
 |LAGCM |44, 48, 55, 56|
 |RBA   |58, 62, 65, 67, 68, 69|
-|GPB   | 72, 74, 76, 79|
+|GPB   | 72, 74, 75, 76, 79|
 
 ## Recommended Countermeasures
 
