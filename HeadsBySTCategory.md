@@ -7,8 +7,8 @@
 | [GRC](https://github.com/thomasrichardmcevoy/FASST/blob/master/GRCDefine.md)| Governance, Risk and Compliance        | Oversight and reporting on the effectiveness of security management in the organization                     |  
 | [STR](https://github.com/thomasrichardmcevoy/FASST/blob/master/STRDefine.md) | Strategy                               | Long term planning to achieve organizational security goals in line with business objectives                |
 | [PRM](https://github.com/thomasrichardmcevoy/FASST/blob/master/PRMDefine.md) | Program Management                     | Coordination of individual projects to achieve an overall organizational goal in line with strategic aims   |
-| ARC | Enterprise Architecture                | The planned structure of an organization and the interaction of technology and process                      |
-| OPM | Operating Model                        | The design of the operating management structures and processes                                             |
+| [ARC]([ARC](https://github.com/thomasrichardmcevoy/FASST/blob/master/ARCDefine.md) | Enterprise Architecture                | The planned structure of an organization and the interaction of technology and process                      |
+| OPM | Operating Model                        | The overall design of the operational management structures and processes                                   |
 | DWT | Workflow Integration                   | The integration of work processes both vertically and horizontally between divisions and teams              |
 | PJM | Project Management                     | Planning, progressing and reporting on projects to achieve program goals                                    |
 | QMT | Quality Management                     | Using control and feedback mechanisms during the design of a system to ensure it meets defined goals        |
