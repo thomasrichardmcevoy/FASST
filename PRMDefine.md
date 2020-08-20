@@ -19,7 +19,7 @@ A failure to institute program management can result in strategic goals being mi
 
 ## Recommended Countermeasures
 
-Institute a structured program of projects under a project management board in support of security goals which exercises oversight over the set of projects and resolves issues related to the interaction of projects and resource and other conflicts, while preventing overlap and duplication of effort.
+Institute a structured program of projects under a project management board in support of security goals which exercises oversight over the set of projects and resolves issues related to the interaction of projects and resource and other conflicts, while preventing overlap and duplication of effort [1].
 
 ## References
 
