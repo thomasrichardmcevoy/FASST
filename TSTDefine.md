@@ -2,7 +2,7 @@
 
 ## Capability and Deficits
 Functional testing ensures that security technology operates in an assured fashion.  This is particularly important for encryption and detection devices and formal tests should 
-be run to ensure their planned configuration operates correctly under environmental conditions.
+be run to ensure their planned configuration operates correctly under environmental conditions.  Funcitional testing also includes testing during software development - see [SDL](https://github.com/thomasrichardmcevoy/FASST/blob/master/SDLDefine.md).
 
 Failure to test can lead to functional errors such as inadequate encryption set up or failure of security mechanisms to operate correctly, exposing the organization.
 
