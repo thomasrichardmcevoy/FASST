@@ -8,7 +8,7 @@
 | [STR](https://github.com/thomasrichardmcevoy/FASST/blob/master/STRDefine.md) | Strategy                               | Long term planning to achieve organizational security goals in line with business objectives                |
 | [PRM](https://github.com/thomasrichardmcevoy/FASST/blob/master/PRMDefine.md) | Program Management                     | Coordination of individual projects to achieve an overall organizational goal in line with strategic aims   |
 | [ARC](https://github.com/thomasrichardmcevoy/FASST/blob/master/ARCDefine.md) | Enterprise Architecture                | The planned structure of an organization and the interaction of technology and process                      |
-| OPM | Operating Model                        | The overall design of the operational management structures and processes                                   |
+| [OPM](https://github.com/thomasrichardmcevoy/FASST/blob/master/OPMDefine.md) | Operating Model                        | The overall design of the operational management structures and processes                                   |
 | DWT | Workflow Integration                   | The integration of work processes both vertically and horizontally between divisions and teams              |
 | PJM | Project Management                     | Planning, progressing and reporting on projects to achieve program goals                                    |
 | QMT | Quality Management                     | Using control and feedback mechanisms during the design of a system to ensure it meets defined goals        |
@@ -69,3 +69,10 @@
 | SKL | Skills Requirements                    | Determining what novel skills may be needed to address emerging technologies or threats                     |
 | POL | Political Landscape                    | Tracking changes to the political landscape which may provided threat intelligence                          |
 | RIV | Commercial Rivals                      | Tracking the actions of commercial rivals and also their experiences which may give threat intelligence     |
+|     | **Risk Model**                          | *Basic Risk Model*                                                                                          |
+| CYS | Cybersecurity breach - Data Theft      |  An attack using malicious software to steal valuable data                                                   |
+| CYD | Cybersecurity breach - Denial of Service | An attack using network resources to deny network access to an organization                                |
+| CYR  | Cybersecurity breach - Ransomware     | A cyber attack which encrypts data and holds it for ransom                                                   |
+| PRI  | Privileged User Attack                | Data theft or sabotage by a privileged user                                                                  |
+| NAT |  Force Majeure                         | Natural disaster or physical accident                                                                        |
+| REG |  Regulatory or Legal Penalty           | A penalty due to non compliance with regulatory or contract conditions, not as the result of a breach        |
