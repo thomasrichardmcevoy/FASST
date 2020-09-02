@@ -70,8 +70,8 @@
 | POL | Political Landscape                    | Tracking changes to the political landscape which may provided threat intelligence                          |
 | RIV | Commercial Rivals                      | Tracking the actions of commercial rivals and also their experiences which may give threat intelligence     |
 |     | **Risk Model**                          | *Basic Risk Model*                                                                                          |
-| CYS | Cybersecurity breach - Data Theft      |  An attack using malicious software to steal valuable data                                                   |
-| CYD | Cybersecurity breach - DOS/Ransomware | An attack using network resources to deny network access to an organization or encrypt data for ransom       |
-| NAT  | Force Majeure                        |Accident or Natural Disaster                                                  |
+| CYS | Cybersecurity breach - Data Theft/ Ransomeware      |  An attack using malicious software to steal valuable data or encrypt data for ransom           |
+| CYD | Cybersecurity breach - DOS | An attack using network resources to deny network access to an organization                                               |
+| NAT  | Force Majeure                        |Accident or Natural Disaster                                                                                    |
 | PRI  | Privileged User Attack                | Data theft or sabotage by a privileged user                                                                  |
 | REG |  Regulatory or Legal Penalty           | A penalty due to non compliance with regulatory or contract conditions, not as the result of a breach        |
