@@ -17,7 +17,7 @@
 | [INC](https://github.com/thomasrichardmcevoy/FASST/blob/master/INCDefine.md) | Incident Response                      | Planning and capability to respond to a security incident when it occurs                                    | 
 | [CNT](https://github.com/thomasrichardmcevoy/FASST/blob/master/CNTDefine.md)| Contingency Planning                   | Capability to run all or part of a business post-incident while the business is in recovery mode            |
 | [DRP](https://github.com/thomasrichardmcevoy/FASST/blob/master/DRPDefine.md) | Disaster Recovery                      | Ability to recover from an environmental or security insult in a timely fashion                             |
-| BCT | Business Continuity                    | Capability to return to business normality following a security incident requiring DR and Contingency       |
+| [BCR](https://github.com/thomasrichardmcevoy/FASST/blob/master/BCRDefine.md) | Business Continuity & Recovery                   | Capability to return to business normality following a security incident requiring DR and Contingency       |
 | ASM | Asset Management                       | Knowledge of specific assets in relation to business goals and their current status                         |
 | MDR | Monitoring, Detection & Response       |  Part of control and feedback - capability to detect and respond to security incidents as they occur        |
 | AMS | Anti-malware strategies                | Capability to detect and prevent malware from propagating on systems                                        |
