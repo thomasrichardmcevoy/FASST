@@ -74,5 +74,4 @@
 | CYD | Cybersecurity breach - Denial of Service | An attack using network resources to deny network access to an organization                                |
 | CYR  | Cybersecurity breach - Ransomware     | A cyber attack which encrypts data and holds it for ransom                                                   |
 | PRI  | Privileged User Attack                | Data theft or sabotage by a privileged user                                                                  |
-| NAT |  Force Majeure                         | Natural disaster or physical accident                                                                        |
 | REG |  Regulatory or Legal Penalty           | A penalty due to non compliance with regulatory or contract conditions, not as the result of a breach        |
