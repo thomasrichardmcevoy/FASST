@@ -9,7 +9,7 @@
 | [PRM](https://github.com/thomasrichardmcevoy/FASST/blob/master/PRMDefine.md) | Program Management                     | Coordination of individual projects to achieve an overall organizational goal in line with strategic aims   |
 | [ARC](https://github.com/thomasrichardmcevoy/FASST/blob/master/ARCDefine.md) | Enterprise Architecture                | The planned structure of an organization and the interaction of technology and process                      |
 | [OPM](https://github.com/thomasrichardmcevoy/FASST/blob/master/OPMDefine.md) | Operating Model                        | The overall design of the operational management structures and processes                                   |
-| DWT | Workflow Integration                   | The integration of work processes both vertically and horizontally between divisions and teams              |
+| [DWT](https://github.com/thomasrichardmcevoy/FASST/blob/master/DWTDefine.md) | Workflow Integration                   | The integration of work processes both vertically and horizontally between divisions and teams              |
 | PJM | Project Management                     | Planning, progressing and reporting on projects to achieve program goals                                    |
 | QMT | Quality Management                     | Using control and feedback mechanisms during the design of a system to ensure it meets defined goals        |
 | TST | Functional Testing                     | Ensuring that a technical system meets its functional goals by design and running specified trials          |
