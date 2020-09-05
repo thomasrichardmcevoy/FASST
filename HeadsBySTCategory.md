@@ -26,8 +26,8 @@
 | [DLP](https://github.com/thomasrichardmcevoy/FASST/blob/master/DLPDefine.md) | Data Leakage Protection                | Knowledge of information assets and capability to detect activities which may leak or expose them           |
 | [DOS](https://github.com/thomasrichardmcevoy/FASST/blob/master/DOSDefine.md) | Denial of service protection           | Ability to detect and prevent or manage denial of service attacks while minimizing business impact           |
 | [BEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/BEMDefine.md) | Boundary/Entry Point Management        |  Knowledge of and the capability to monitor touchpoints to external systems e.g. 3rd parties                |
-| NAC | Network Access Control                 |  Capability to monitor and control traffic flows on the internal network to achieve security goals         |
-| PPP | Physical Plant Protection              |  Capability to protect the physical environment including systems and buildings                            |
+| [NAC](https://github.com/thomasrichardmcevoy/FASST/blob/master/NACDefine.md) | Network Access Control                 |  Capability to monitor and control traffic flows on the internal network to achieve security goals         |
+| [PPP](https://github.com/thomasrichardmcevoy/FASST/blob/master/PPPDefine.md) | Physical Plant Protection              |  Capability to protect the physical environment including systems and buildings                            |
 |     | **Costs**                              | *Costs of running security systems throughout the organization*                                              |
 | INV | Investment Levels                      | Amount of investment in security                                                                            |
 | HYG | Hygiene Factors                        | Factors where investment maintains security posture                                                         |
