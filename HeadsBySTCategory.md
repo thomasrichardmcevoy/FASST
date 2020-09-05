@@ -22,8 +22,8 @@
 |      |   **Technical Countermeasures**             | *Technical Capability*                      |
 | [MDR](https://github.com/thomasrichardmcevoy/FASST/blob/master/MDRDefine.md) | Monitoring, Detection & Response       |  Part of control and feedback - capability to detect and respond to security incidents as they occur        |
 | [AMS](https://github.com/thomasrichardmcevoy/FASST/blob/master/AMSDefine.md) | Anti-malware strategies                | Capability to detect and prevent malware from propagating on systems                                        |
-| IDM | Identity and Access Management         |  Capability to define roles and responsibilities and authorise and authenticate such activities             |
-| DLP | Data Leakage Protection                | Knowledge of information assets and capability to detect activities which may leak or expose them           |
+| [IDM](https://github.com/thomasrichardmcevoy/FASST/blob/master/IDMDefine.md) | Identity and Access Management         |  Capability to define roles and responsibilities and authorise and authenticate such activities             |
+| [DLP](https://github.com/thomasrichardmcevoy/FASST/blob/master/DLPDefine.md) | Data Leakage Protection                | Knowledge of information assets and capability to detect activities which may leak or expose them           |
 | DOS | Denial of service protection           | Ability to detect and prevent or manage denial of service attacks while minimizing business impact           |
 | BEM | Boundary/Entry Point Management        |  Knowledge of and the capability to monitor touchpoints to external systems e.g. 3rd parties                |
 | NAC | Network Access Control                 |  Capability to monitor and control traffic flows on the internal network to achieve security goals         |
