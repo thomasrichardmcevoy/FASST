@@ -19,8 +19,9 @@
 | [DRP](https://github.com/thomasrichardmcevoy/FASST/blob/master/DRPDefine.md) | Disaster Recovery                      | Ability to recover from an environmental or security insult in a timely fashion                             |
 | [BCR](https://github.com/thomasrichardmcevoy/FASST/blob/master/BCRDefine.md) | Business Continuity & Recovery                   | Capability to return to business normality following a security incident requiring DR and Contingency       |
 | [ASM](https://github.com/thomasrichardmcevoy/FASST/blob/master/ASMDefine.md) | Asset Management                       | Knowledge of specific assets in relation to business goals and their current status                         |
+|      |   **Technical Countermeasures**             | *Technical Capability*                      |
 | [MDR](https://github.com/thomasrichardmcevoy/FASST/blob/master/MDRDefine.md) | Monitoring, Detection & Response       |  Part of control and feedback - capability to detect and respond to security incidents as they occur        |
-| AMS | Anti-malware strategies                | Capability to detect and prevent malware from propagating on systems                                        |
+| [AMS](https://github.com/thomasrichardmcevoy/FASST/blob/master/AMSDefine.md) | Anti-malware strategies                | Capability to detect and prevent malware from propagating on systems                                        |
 | IDM | Identity and Access Management         |  Capability to define roles and responsibilities and authorise and authenticate such activities             |
 | DLP | Data Leakage Protection                | Knowledge of information assets and capability to detect activities which may leak or expose them           |
 | DOS | Denial of service protection           | Ability to detect and prevent or manage denial of service attacks while minimizing business impact           |
