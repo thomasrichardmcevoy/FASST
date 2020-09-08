@@ -33,15 +33,15 @@
 | [HYG](https://github.com/thomasrichardmcevoy/FASST/blob/master/HYGDefine.md) | Hygiene Factors                        | Factors where investment maintains security posture                                                         |
 | [HUM](https://github.com/thomasrichardmcevoy/FASST/blob/master/HUMDefine.md) | Human Resources                        | Personnel belonging to the organization with specific reference to their utilization in work activities     |
 | [MAT](https://github.com/thomasrichardmcevoy/FASST/blob/master/MATDefine.md) | Means & materials                      | The provision of material goods and system capabilities/processes to achieve a task                         |
-| [ROI]() | Return on Investment                   | Metrics to ensure that the worth of security investment is measured                                        |
+| [ROI](https://github.com/thomasrichardmcevoy/FASST/blob/master/ROIDefine.md) | Return on Investment                   | Metrics to ensure that the worth of security investment is measured                                        |
 |     |  **Work Load**                         | Work load associated with security operations                                                               |
-| [EUS]() | End User Support                       | Support in place to ensure end users can understand and apply security measures                             |
-| [UAT]() | User Acceptance Testing                | Testing by users of security measures before implementation to ensure fitness for purpose                   |
-| [EFF]() | Effort Perception                      | Perceived effort by users for carrying out security processes                                               |
-| [SYP]() | Perceived System Performance           | Perceived system performance of security measures                                                           |
-| [WDP]() | Work Design & Participation            | Involvement of end users and operators in design of systems to carry out security processes                 |
-| [TIM]() | Time Management                        | Capability of users to manage their time in relation to security processes v work                           |
-| [PRM]() | Priority Management                    | Capability of users to manage their priorities in relation to security processes v work                     |
+| [EUS](https://github.com/thomasrichardmcevoy/FASST/blob/master/EUSDefine.md) | End User Support                       | Support in place to ensure end users can understand and apply security measures                             |
+| [UAT](https://github.com/thomasrichardmcevoy/FASST/blob/master/UATDefine.md) | User Acceptance Testing                | Testing by users of security measures before implementation to ensure fitness for purpose                   |
+| [EFF](https://github.com/thomasrichardmcevoy/FASST/blob/master/EFFDefine.md) | Effort Perception                      | Perceived effort by users for carrying out security processes                                               |
+| [SYP](https://github.com/thomasrichardmcevoy/FASST/blob/master/SYPDefine.md) | Perceived System Performance           | Perceived system performance of security measures                                                           |
+| [WDP](https://github.com/thomasrichardmcevoy/FASST/blob/master/WDPDefine.md) | Work Design & Participation            | Involvement of end users and operators in design of systems to carry out security processes                 |
+| [TIM](https://github.com/thomasrichardmcevoy/FASST/blob/master/TIMDefine.md) | Time Management                        | Capability of users to manage their time in relation to security processes v work                           |
+| [PRM](https://github.com/thomasrichardmcevoy/FASST/blob/master/PRMDefine.md) | Priority Management                    | Capability of users to manage their priorities in relation to security processes v work                     |
 |     | **Learning Organizaton**               | *Capability of the organization to learn and change in response to new information*                         |
 |[MEM](https://github.com/thomasrichardmcevoy/FASST/blob/master/MEMDefine.md) | Mental Models of Risk Management       | Perception and approach in relation to risk management strategies                                           |
 | [ATT](https://github.com/thomasrichardmcevoy/FASST/blob/master/ATTDefine.md) | Risk Attitude                          | Attitude to taking risks in the organization                                                                |
