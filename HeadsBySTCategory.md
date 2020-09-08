@@ -29,7 +29,7 @@
 | [NAC](https://github.com/thomasrichardmcevoy/FASST/blob/master/NACDefine.md) | Network Access Control                 |  Capability to monitor and control traffic flows on the internal network to achieve security goals         |
 | [PPP](https://github.com/thomasrichardmcevoy/FASST/blob/master/PPPDefine.md) | Physical Plant Protection              |  Capability to protect the physical environment including systems and buildings                            |
 |     | **Costs**                              | *Costs of running security systems throughout the organization*                                              |
-| INV | Investment Levels                      | Amount of investment in security                                                                            |
+| [INV](https://github.com/thomasrichardmcevoy/FASST/blob/master/INVDefine.md) | Investment Levels                      | Amount of investment in security                                                                            |
 | HYG | Hygiene Factors                        | Factors where investment maintains security posture                                                         |
 | HUM | Human Resources                        | Personnel belonging to the organization with specific reference to their utilization in work activities     |
 | CAP | Capability & Training                  | The skill level of human resources and measures to maintain or increase this through training               |
