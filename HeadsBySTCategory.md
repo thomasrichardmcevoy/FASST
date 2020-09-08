@@ -31,7 +31,7 @@
 |     | **Costs**                              | *Costs of running security systems throughout the organization*                                              |
 | [INV](https://github.com/thomasrichardmcevoy/FASST/blob/master/INVDefine.md) | Investment Levels                      | Amount of investment in security                                                                            |
 | [HYG](https://github.com/thomasrichardmcevoy/FASST/blob/master/HYGDefine.md) | Hygiene Factors                        | Factors where investment maintains security posture                                                         |
-| HUM | Human Resources                        | Personnel belonging to the organization with specific reference to their utilization in work activities     |
+| [HUM](https://github.com/thomasrichardmcevoy/FASST/blob/master/HUMDefine.md) | Human Resources                        | Personnel belonging to the organization with specific reference to their utilization in work activities     |
 | CAP | Capability & Training                  | The skill level of human resources and measures to maintain or increase this through training               |
 | MAT | Means & materials                      | The provision of material goods and system capabilities/processes to achieve a task                         |
 | RMA | Risk Management Approach               | Risk analysis and management methodology and overall approach to timing and direction of risk A & M         |
