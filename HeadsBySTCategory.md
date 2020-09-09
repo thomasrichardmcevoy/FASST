@@ -61,9 +61,10 @@
 | [SKL](https://github.com/thomasrichardmcevoy/FASST/blob/master/SKLDefine.md) | Skills Requirements                    | Determining what novel skills may be needed to address emerging technologies or threats                     |
 | [POL](https://github.com/thomasrichardmcevoy/FASST/blob/master/POLDefine.md) | Political Landscape                    | Tracking changes to the political landscape which may provided threat intelligence                          |
 | [RIV](https://github.com/thomasrichardmcevoy/FASST/blob/master/RIVDefine.md) | Commercial Rivals                      | Tracking the actions of commercial rivals and also their experiences which may give threat intelligence     |
-|     | **Risk Model**                          | *Basic Risk Model*                                                                                          |
-| [CYS](https://github.com/thomasrichardmcevoy/FASST/blob/master/CYSDefine.md) | Cybersecurity breach - Data Theft/ Ransomware      |  An attack using malicious software to steal valuable data or encrypt data for ransom           |
+|     | **Threat Model**                          | *Basic Threat Model*                                                                                          |
+| [CYS](https://github.com/thomasrichardmcevoy/FASST/blob/master/CYSDefine.md) | Cybersecurity breach - Data Theft     |  An attack using malicious software to steal valuable data           |
+| [CYR](https://github.com/thomasrichardmcevoy/FASST/blob/master/CYRDefine.md) | Cybersecurity breach - Ransomware     |  An attack to blackmail an organization by encrypting its data         |
 | [CYD](https://github.com/thomasrichardmcevoy/FASST/blob/master/CYDDefine.md) | Cybersecurity breach - DOS | An attack using network resources to deny network access to an organization                                               |
-| [NAT](https://github.com/thomasrichardmcevoy/FASST/blob/master/NATDefine.md)  | Force Majeure                        |Accident or Natural Disaster                                                                                    |
+| [NAT](https://github.com/thomasrichardmcevoy/FASST/blob/master/NATDefine.md)  | Force Majeure                        |Accident or Natural Disaster  e.g. affecting a data centre                                                    |
 | [PRI](https://github.com/thomasrichardmcevoy/FASST/blob/master/PRIDefine.md)  | Privileged User Attack                | Data theft or sabotage by a privileged user                                                                  |
-| [REG ](https://github.com/thomasrichardmcevoy/FASST/blob/master/REGDefine.md)|  Regulatory or Legal Penalty           | A penalty due to non compliance with regulatory or contract conditions, not as the result of a breach        |
+
