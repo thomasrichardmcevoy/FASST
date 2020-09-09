@@ -45,7 +45,8 @@
 | [ATT](https://github.com/thomasrichardmcevoy/FASST/blob/master/ATTDefine.md) | Risk Attitude                          | Attitude to taking risks in the organization                                                                |
 | [SOC](https://github.com/thomasrichardmcevoy/FASST/blob/master/SOCDefine.md) | Social influence                       | The social influence of others (colleagues, management, experts) on security practice                       |
 | [ETH](https://github.com/thomasrichardmcevoy/FASST/blob/master/ETHDefine.md) | Ethics                                 | Adherence to a inner set of values with relation to good security practice                                  |
-| [ENV](https://github.com/thomasrichardmcevoy/FASST/blob/master/ENVDefine.md) | Environmental Design                   | The environment is designed in a way which facilitates adherence to cyber security policy                   |
+| [ENV](https://github.com/thomasrichardmcevoy/FASST/blob/master/ENVDefine.md) | Environmental Design                   | The environment is taken into account
+ in designing security features |
 | [ORG](https://github.com/thomasrichardmcevoy/FASST/blob/master/ORGDefine.md) | Organisational Design                  | Work patterns and team organization facilitate adherence to cyber security policy                           |
 | [CON](https://github.com/thomasrichardmcevoy/FASST/blob/master/CONDefine.md) | Handling conflict                      | Capability to deal logically and openly with disagreements about security and work design                   |
 | [ACD](https://github.com/thomasrichardmcevoy/FASST/blob/master/ACDDefine.md) | Accountable Decision Making            | Ensuring that decisions are rationally based and that decision making is enabling not disabling             |
