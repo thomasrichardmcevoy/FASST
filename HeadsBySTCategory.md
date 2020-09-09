@@ -54,7 +54,6 @@
 |     | **Monitoring & Influencing External Parties** | *Similar to control and feedback, but applied to working with external organizations*                |
 | [THI](https://github.com/thomasrichardmcevoy/FASST/blob/master/THIDefine.md) | Threat intelligence                    | Information about potential threats or threat sources relevant to the security of the organization          |
 | [REG](https://github.com/thomasrichardmcevoy/FASST/blob/master/REGDefine.md) | Monitor regulatory action and advice   | Tracking proposed or actual changes to regulation                                                           |
-| [LEG](https://github.com/thomasrichardmcevoy/FASST/blob/master/LEGDefine.md) | Monitor legislation                    | Monitoring proposed or actual change to legislation                                                         |
 | [EXC](https://github.com/thomasrichardmcevoy/FASST/blob/master/EXCDefine.md) | Peer Exchange of Views                 | Exchanging knowledge and experiences with industry counterparts                                             |
 | [LOB ](https://github.com/thomasrichardmcevoy/FASST/blob/master/LOBDefine.md)| Lobbying                               | Seeking to influence either formally or informally legislative and regulatory bodies                        |
 | [PUM ](https://github.com/thomasrichardmcevoy/FASST/blob/master/PUMDefine.md)| Monitoring public & media opinion      | Tracking changes to public and media opinion which may give threat intelligence                             |
