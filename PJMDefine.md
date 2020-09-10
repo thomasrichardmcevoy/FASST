@@ -28,3 +28,4 @@ unfeasible or mismatched project goals on behalf of technical resources employed
 while sticking within tolerance for budget and quality.
 
 ## References
+Payette, J., Anegbe, E., Caceres, E., & Muegge, S. (2015). Secure by design: Cybersecurity extensions to project management maturity models for critical infrastructure projects. Technology Innovation Management Review, 5(6).
