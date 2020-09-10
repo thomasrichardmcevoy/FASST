@@ -14,10 +14,10 @@ regulatory breach.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|EES     |   3,8,10   |
+|PPAA  | 12,14,17,18,21,23,25,26,28|
+|TOM   |30,33,34,37,38,41,42|
+|LAGCM |44,48|
 |RBA   ||
 |GPB   ||
 
