@@ -17,12 +17,12 @@ to multiple potential failures.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
-|RBA   ||
-|GPB   ||
+|EES     |  4    |
+|PPAA  | 12,14,15, 16, 18,23,26,27|
+|TOM   |30,31,35,38,42|
+|LAGCM |44,45,48,51,52,55|
+|RBA   |57,58,59,62,63,65,67,69|
+|GPB   |70,72,74,75,76|
 
 ## Recommended Countermeasures
 
@@ -30,3 +30,4 @@ Work design needs to be checked by using user and management walkthroughs, which
 mechanisms are in place and functioning as expected.
 
 ## References
+Leveson, N. (2019). A Systems Approach to Safety and Cybersecurity
