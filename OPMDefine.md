@@ -19,10 +19,10 @@ cyber attacks or unauthorised actions by insiders.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|EES     | 2,3,4,10     |
+|PPAA  | 12,14,15,16,17,18,21,23,24,26,27|
+|TOM   |30,31,38,39,42|
+|LAGCM |44,45,50,51,52,55|
 |RBA   ||
 |GPB   ||
 
@@ -32,3 +32,4 @@ It is difficult for most organizations to fully resource a complete operating mo
 specialist third party organizations.
 
 ## References
+Poppensieker, T., & Riemenschnitter, R. (2018). A new posture for cybersecurity in a networked world. McKinsey. March.
