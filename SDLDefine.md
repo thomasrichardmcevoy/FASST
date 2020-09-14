@@ -11,8 +11,8 @@ Failure to incorporate an end to end focus on security during development leads 
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
+|EES     | 14, 15,24,27    |
+|PPAA  |30,31,40 |
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -25,3 +25,4 @@ flaws in operating software is the failure to address security throughout the li
 
 
 ## References
+Goertzel, K. M., & Winograd, T. (2008). Enhancing the development life cycle to produce secure software. US. Department of Defense, pp. i-iv.
