@@ -10,9 +10,9 @@ Failure to test can lead to functional errors such as inadequate encryption set 
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
+|EES     | 2,3,4,5,8,10 |
+|PPAA  | 12,17|
+|TOM   |31,33|
 |LAGCM ||
 |RBA   ||
 |GPB   ||
@@ -23,3 +23,4 @@ Institute functional testing as part of the design and build process.
 
 
 ## References
+Wooderson, P., & Ward, D. (2017). Cybersecurity testing and validation (No. 2017-01-1655). SAE Technical Paper.
