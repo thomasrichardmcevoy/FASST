@@ -25,7 +25,7 @@ regulatory breach.
 
 Project managers with skill and experience in security are the best choice to manage cyber security projects. Project managers should also not be afraid to challenge
 unfeasible or mismatched project goals on behalf of technical resources employed in the project and work to agree formal changes to aims and delivery dates where necessary 
-while sticking within tolerance for budget and quality.
+while sticking within tolerance for budget and quality.  Formal checks should be in place to ensure that baseline security requirements are not bypassed.
 
 ## References
 Payette, J., Anegbe, E., Caceres, E., & Muegge, S. (2015). Secure by design: Cybersecurity extensions to project management maturity models for critical infrastructure projects. Technology Innovation Management Review, 5(6).
