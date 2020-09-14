@@ -25,3 +25,4 @@ Quality management applies to other parts of the IT environment, including build
 Quality management requires planning testing and checks at each stage of the system build.  To counter cyber attacks, a particular attention needs to be paid to build and release scripts and running vulnerability scans of builds to check configurations.  This may need careful planning as requirements for a stable environment may contradict requirements to manage vulnerabilities.
 
 ## References
+Payette, J., Anegbe, E., Caceres, E., & Muegge, S. (2015). Secure by design: Cybersecurity extensions to project management maturity models for critical infrastructure projects. Technology Innovation Management Review, 5(6
