@@ -10,7 +10,7 @@ Failure to respond to incidents adequately leads to incidents causing greater da
 |Category | Number |
 | --- | --- |
 |EES     | 1,2,3,4,5,7,8,9,10     |
-|PPAA  | 11,12,13,14,15,16,17,18,19,22,23,24,25,26,27,28,29 |
+|PPAA  | 11,12,13,14,15,16,17,18,19, 21,22,23,24,25,26,27,28,29 |
 |TOM   | 30,21,33,35,38,39,40,41,42,43|
 |LAGCM |44,45,48,51,53,54,55,56|
 |RBA   |58,59,62,63,64,66,67,68|
@@ -24,3 +24,4 @@ process or network access.
 
 
 ## References
+Thompson, E. C. (2018). Cybersecurity Incident Response: How to Contain, Eradicate, and Recover from Incidents. Apress.
