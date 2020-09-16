@@ -8,11 +8,11 @@ the best way to strengthen your security posture and meet new risks.  This infor
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
-|RBA   ||
+|EES     | 2,3,10     |
+|PPAA  | 17,25,26|
+|TOM   |33,41|
+|LAGCM |54|
+|RBA   |67|
 |GPB   ||
 
 ## Recommended Countermeasures
@@ -20,3 +20,4 @@ the best way to strengthen your security posture and meet new risks.  This infor
 Track technological development through forums, media and conferences.
 
 ## References
+Cetron, M. J., Davies, O., Steele, S. F., & Ayers, C. E. (2009). World war 3.0: Ten critical trends for cybersecurity. The Futurist, 43(5), 40.
