@@ -7,15 +7,16 @@ A data theft or act of sabotage carried out by an insider with system privileges
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
+|EES     |   11   |
 |PPAA  | |
 |TOM   ||
 |LAGCM ||
 |RBA   ||
 |GPB   ||
 
-## Recommended Countermeasures
+
 
 
 
 ## References
+Haber, M. J. (2020). Privileged Attack Vectors. In Privileged Attack Vectors (pp. 1-10). Apress, Berkeley, CA.
