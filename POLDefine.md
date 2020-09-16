@@ -13,7 +13,7 @@ Failure to monitor such developments e.g. through contact with intelligence comm
 |EES     |      |
 |PPAA  | |
 |TOM   ||
-|LAGCM ||
+|LAGCM |48,52,54|
 |RBA   ||
 |GPB   ||
 
@@ -22,3 +22,4 @@ Failure to monitor such developments e.g. through contact with intelligence comm
 Where organizations beleve they may be targeted by nation states, they should be in active contact with and seeking the advice of intelligence agencies.
 
 ## References
+Tisdale, S. M. (2015). Cybersecurity: Challenges from a Systems, Complexity, Knowledge Management and Business Intelligence Perspective. Issues in Information Systems, 16(3).
