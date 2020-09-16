@@ -9,12 +9,12 @@ Failure to respond to incidents adequately leads to incidents causing greater da
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
-|RBA   ||
-|GPB   ||
+|EES     | 1,2,3,4,5,7,8,9,10     |
+|PPAA  | 11,12,13,14,15,16,17,18,19,22,23,24,25,26,27,28,29 |
+|TOM   | 30,21,33,35,38,39,40,41,42,43|
+|LAGCM |44,45,48,51,53,54,55,56|
+|RBA   |58,59,62,63,64,66,67,68|
+|GPB   |70,74,75,76,77,79|
 
 ## Recommended Countermeasures
 Incident response is not simply about being able to detect or prioritise incidents or have good technical responses.  It also requires planning and rehearsing for major types 
