@@ -1,6 +1,6 @@
 # Cybersecurity Breach - Theft of Data
 
-## Capability and Deficits
+## Capability
 Theft or exposure of data belonging to the organization.
 
 ## Mapping to Generic Accimap
@@ -8,14 +8,11 @@ Theft or exposure of data belonging to the organization.
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  | 11 |
 |TOM   ||
 |LAGCM ||
 |RBA   ||
 |GPB   ||
 
-## Recommended Countermeasures
-
-
-
 ## References
+Manworren, N., Letwat, J., & Daily, O. (2016). Why you should care about the Target data breach. Business Horizons, 59(3), 257-266.
