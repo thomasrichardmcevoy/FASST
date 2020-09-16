@@ -9,9 +9,9 @@ company more responsive to client complaints, where relevant, about security iss
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|PPAA  | 25,26|
+|TOM   |41|
+|LAGCM |54|
 |RBA   ||
 |GPB   ||
 
@@ -20,3 +20,4 @@ Monitor public opinion and press reports.
 
 
 ## References
+Tounsi, W., & Rais, H. (2018). A survey on technical threat intelligence in the age of sophisticated cyber attacks. Computers & security, 72, 212-233.
