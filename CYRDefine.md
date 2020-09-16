@@ -1,6 +1,6 @@
 # Cybersecurity Breach -Ransomware
 
-## Capability and Deficits
+## Capability
 An attack which works by encrypting data and requesting organizations pay for it to be unencrypted.
 
 ## Mapping to Generic Accimap
@@ -14,8 +14,7 @@ An attack which works by encrypting data and requesting organizations pay for it
 |RBA   ||
 |GPB   ||
 
-## Recommended Countermeasures
-
 
 
 ## References
+Sittig, D. F., & Singh, H. (2016). A socio-technical approach to preventing, mitigating, and recovering from ransomware attacks. Applied clinical informatics, 7(2), 624.
