@@ -14,8 +14,8 @@ importance to the job and to the workplace.
 | --- | --- |
 |EES     |      |
 |PPAA  | |
-|TOM   ||
-|LAGCM ||
+|TOM   | 31, 32|
+|LAGCM | 45, 46|
 |RBA   ||
 |GPB   ||
 
@@ -27,3 +27,4 @@ for them on a human level also increases loyalty and commitment which underpins 
 
 
 ## References
+Manjikian, M. (2017). Cybersecurity ethics: an introduction. Routledge.
