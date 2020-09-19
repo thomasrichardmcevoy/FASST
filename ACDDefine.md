@@ -12,8 +12,8 @@ known and obvious risks.
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
-|TOM   ||
+|PPAA  |19,25 |
+|TOM   |35,41|
 |LAGCM ||
 |RBA   ||
 |GPB   ||
@@ -24,3 +24,4 @@ The balanced approach is to ensure that decision-making processes and decision-m
 appeals processes against decisions - whether too lax or too strict.
 
 ## References
+Jalali, M. S., Siegel, M., & Madnick, S. (2019). Decision-making and biases in cybersecurity capability development: Evidence from a simulation game experiment. The Journal of Strategic Information Systems, 28(1), 66-82.
