@@ -12,16 +12,17 @@ policy where the passwords created were neither memorable, unguessable or uncomp
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
-|TOM   ||
+|PPAA  |19,25 |
+|TOM   |35,41|
 |LAGCM ||
 |RBA   ||
 |GPB   ||
 
 ## Recommended Countermeasures
 Security traditions and compliance based solutions should be challenged on a regular basis.  Updating skills and knowledge and keeping an eye on technical trends is one
-of the easiest ways of doing this.
+of the easiest ways of doing this. Tackling cybersecurity problems with different viewpoints and problem solving strategies enables experts to get ahead of the attacker.
 
 
 
 ## References
+Dykstra, J. A., & Orr, S. R. (2016, October). Acting in the unknown: the Cynefin framework for managing cybersecurity risk in dynamic decision making. In 2016 International Conference on Cyber Conflict (CyCon US) (pp. 1-6). IEEE.
