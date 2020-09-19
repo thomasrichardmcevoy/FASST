@@ -10,9 +10,9 @@ in the organization and can act against incidents being reported or investigated
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|PPAA  | 14, 19, 26|
+|TOM   |30,32|
+|LAGCM |44, 46|
 |RBA   ||
 |GPB   ||
 
@@ -22,3 +22,4 @@ A just culture approach should be adopted to incident investigation, with a no b
 than punished unless the person is clearly acting from malice.
 
 ## References
+Craggs, B. (2019, May). A just culture is fundamental: extending security ergonomics by design. In 2019 IEEE/ACM 5th International Workshop on Software Engineering for Smart Cyber-Physical Systems (SEsCPS) (pp. 46-49). IEEE.
