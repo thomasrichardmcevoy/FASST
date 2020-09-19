@@ -11,8 +11,8 @@ operations.  In this case, the risk is that a fine may be applied directly or mo
 | --- | --- |
 |EES     |      |
 |PPAA  | |
-|TOM   ||
-|LAGCM ||
+|TOM   |41|
+|LAGCM |54|
 |RBA   ||
 |GPB   ||
 
@@ -21,3 +21,4 @@ operations.  In this case, the risk is that a fine may be applied directly or mo
 Monitor legislation and relevant regulation.
 
 ## References
+Russo, K., & Rishikof, H. (2016). Cybersecurity: Executive Orders, Legislation, Cyberattacks, and Hot Topics. Chap. L. Rev., 19, 421.
