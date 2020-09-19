@@ -10,8 +10,8 @@ be aware of geo-political trends.  Failure to do so could leave an organization 
 | --- | --- |
 |EES     |      |
 |PPAA  | |
-|TOM   ||
-|LAGCM ||
+|TOM   |41|
+|LAGCM |54|
 |RBA   ||
 |GPB   ||
 
@@ -20,3 +20,4 @@ be aware of geo-political trends.  Failure to do so could leave an organization 
 Monitor and respond to threat intelligence in the organization.
 
 ## References
+Mtsweni, J., & Mutemwa, M. (2019, July). Technical Guidelines for Evaluating and Selecting Data Sources for Cybersecurity Threat Intelligence. In ECCWS 2019 18th European Conference on Cyber Warfare and Security (p. 305). Academic Conferences and publishing limited.
