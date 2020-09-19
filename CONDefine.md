@@ -12,14 +12,16 @@ also arise where demands for new applications which could cut workload are ignor
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|PPAA  | 14,18 19, 27 |
+|TOM   | 30, 32,35 |
+|LAGCM | 44,46, 55|
 |RBA   ||
 |GPB   ||
 
+
 ## Recommended Countermeasures
 
-Management should take conflict seriously and work for a joint resolution rather than simply overruling objections to security policy, procedures or technology.
+Management should take conflict seriously and work for a joint resolution rather than simply overruling objections to security policy, planning, procedures or technology.
 
 ## References
+Rahim, M. A. (2000). Empirical studies on managing conflict. International Journal of conflict management.
