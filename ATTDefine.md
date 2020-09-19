@@ -13,11 +13,13 @@ can lead to an organization exposing itself to losses which it cannot bear, lead
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|PPAA  | 19, 25|
+|TOM   | 35, 41|
+|LAGCM | 48, 54|
 |RBA   ||
 |GPB   ||
+
+
 
 ## Recommended Countermeasures
 Use of techniques like FAIR help an organization to determine whether its risk attitude is reasonable and what level of losses it can bear as well as the worth of making
@@ -25,3 +27,4 @@ various security investments.
 
 
 ## References
+McKeown, D. A. (2019). Building a risk-based information security culture. ISSA Journal, 17(4), 14-21.
