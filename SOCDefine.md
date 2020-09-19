@@ -15,8 +15,8 @@ unhelpful.
 | --- | --- |
 |EES     |      |
 |PPAA  | |
-|TOM   ||
-|LAGCM ||
+|TOM   | 31, 32|
+|LAGCM | 45, 46|
 |RBA   ||
 |GPB   ||
 
@@ -26,3 +26,4 @@ Working for the right balance of management decision taking, expert influence an
 with good security and awareness training.
 
 ## References
+Kassa, W. (2016). Information technology security professionals' knowledge and use intention based on UTAUT model (Doctoral dissertation, Capella University).
