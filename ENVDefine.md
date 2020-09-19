@@ -12,15 +12,17 @@ an engine room failed due to oil dirtying hands.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
-|RBA   ||
+|EES     |  1,2, 3, 4, 5, 7, 8, 9, 10    |
+|PPAA  |17, 21, 22, 24, 26, 28, 29 |
+|TOM   |33, 37, 50|
+|LAGCM | 56|
+|RBA   |65|
 |GPB   ||
+
 
 ## Recommended Countermeasures
 
 Take account of the work environment and work organization during design of security procedures and functionality.
 
 ## References
+Malatji, M., Von Solms, S., & Marnewick, A. (2019). Socio-technical systems cybersecurity framework. Information & Computer Security.
