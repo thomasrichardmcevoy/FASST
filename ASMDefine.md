@@ -13,12 +13,13 @@ records makes it more difficult to estimate how much damage has been done or whe
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
+|EES     | 3, 4     |
+|PPAA  | 17, 25|
+|TOM   | 33, 41|
 |LAGCM ||
 |RBA   ||
 |GPB   ||
+
 
 ## Recommended Countermeasures
 
@@ -28,3 +29,4 @@ management purposes. [Note, some experts would not regard CIs as "assets", but f
 to one another which is a key part of understanding the impacts of security management decisions or incidents].
 
 ## References
+Kohli, S. (2016, June). Developing cyber security asset management framework for UK rail. In 2016 International Conference On Cyber Situational Awareness, Data Analytics And Assessment (CyberSA) (pp. 1-6). IEEE.
