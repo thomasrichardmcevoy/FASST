@@ -9,12 +9,13 @@ Failure to instigate participation by users in work design is likely to result i
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|EES     |  1, 2, 3, 5, 7, 9 10    |
+|PPAA  |12, 14, 15, 17, 18, 21, 24, 29 |
+|TOM   |30, 31, 33, 40 42|
+|LAGCM |44, 45, 50, 53, 55|
 |RBA   ||
 |GPB   ||
+
 
 ## Recommended Countermeasures
 
@@ -22,3 +23,4 @@ Users should participate in work design and use should be made of agile methodol
 live operations - with contingency to roll back designs which do not work or cause unexpected side effects on work or security processes.
 
 ## References
+Boyce, M. W., Duma, K. M., Hettinger, L. J., Malone, T. B., Wilson, D. P., & Lockett-Reynolds, J. (2011, September). Human performance in cybersecurity: A research agenda. In Proceedings of the Human Factors and Ergonomics Society annual meeting (Vol. 55, No. 1, pp. 1115-1119). Sage CA: Los Angeles, CA: SAGE Publications.
