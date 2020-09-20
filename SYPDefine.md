@@ -8,15 +8,18 @@ shortcutting the technology which undermines its effectiveness.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
+|EES     |  3, 8    |
+|PPAA  | 17, 28|
+|TOM   | 33, 43|
 |LAGCM ||
 |RBA   ||
 |GPB   ||
+
+
 
 ## Recommended Countermeasures
 Functional and user testing should ensure that security technology does not cause a significant loss in performance or increase in work effort.
 
 
 ## References
+Nurse, J. R., Creese, S., Goldsmith, M., & Lamberts, K. (2011, September). Guidelines for usable cybersecurity: Past and present. In 2011 third international workshop on cyberspace safety and security (CSS) (pp. 21-26). IEEE.
