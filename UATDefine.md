@@ -9,9 +9,9 @@ have it switched off in their case.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
+|EES     |   2,3   |
+|PPAA  | 17|
+|TOM   |30 |
 |LAGCM ||
 |RBA   ||
 |GPB   ||
@@ -21,3 +21,4 @@ have it switched off in their case.
 Security features which do not pass user acceptance should not be incorporated into organizations systems.  Better security designs should be sought.
 
 ## References
+Reddy, D., & Dietrich, G. (2016). Identifying Multiple Categories of Cybersecurity Skills that Affect User Acceptance of Protective Information Technologies.
