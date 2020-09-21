@@ -10,9 +10,9 @@ with data assets.
 
 |Category | Number |
 | --- | --- |
-|EES     |      |
-|PPAA  | |
-|TOM   ||
+|EES     | 3, 8     |
+|PPAA  | 14, 17, 28 |
+|TOM   | 30, 33, 43|
 |LAGCM ||
 |RBA   ||
 |GPB   ||
@@ -22,3 +22,4 @@ Through project and operational planning, ensure that materials and technologies
 
 
 ## References
+Payette, J., Anegbe, E., Caceres, E., & Muegge, S. (2015). Secure by design: Cybersecurity extensions to project management maturity models for critical infrastructure projects. Technology Innovation Management Review, 5(6).
