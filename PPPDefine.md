@@ -13,7 +13,7 @@ kind of events, whether causes accidentally or maliciously, and legal or regulat
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  |11 |
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -25,3 +25,4 @@ Depending on the type of outage, various countermeasures are required e.g. fire 
 damage could be done directly to equipment.
 
 ## References
+Fennelly, L. J. (Ed.). (2016). Effective physical security. Butterworth-Heinemann.
