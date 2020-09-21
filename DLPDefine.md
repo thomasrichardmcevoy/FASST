@@ -15,7 +15,7 @@ Failure to track data assets and ensure that they are appropriately handled and 
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  |11 |
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -26,3 +26,4 @@ Data assets should be logged and classified and as a minimum procedures defined 
 technology for highly sensitive assets, e.g. preventing IPR being emailed outside the organization.
 
 ## References
+Alneyadi, S., Sithirasenan, E., & Muthukkumarasamy, V. (2016). A survey on data leakage prevention systems. Journal of Network and Computer Applications, 62, 137-152.
