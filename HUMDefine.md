@@ -14,9 +14,9 @@ strategy, architecture, operations and day to day delivery.
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
-|TOM   ||
-|LAGCM ||
+|PPAA  | 18, 21, 24 |
+|TOM   | 37, 40|
+|LAGCM | 50, 53|
 |RBA   ||
 |GPB   ||
 
@@ -27,3 +27,4 @@ that staff receive ongoing development in cybersecurity which as a rapidly chang
 strategies.
 
 ## References
+Assante, M. J., & Tobey, D. H. (2011). Enhancing the cybersecurity workforce. IT professional, 13(1), 12-15
