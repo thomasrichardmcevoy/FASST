@@ -14,7 +14,7 @@ of the attack.
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  | 11 |
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -27,3 +27,4 @@ through third parties.
 
 
 ## References
+Yu, S. (2014). Distributed denial of service attack and defense (pp. 15-29). Springer New York.
