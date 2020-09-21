@@ -12,7 +12,7 @@ to privileged functions, tools or accounts.
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  | 11|
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -27,3 +27,4 @@ term sick.
 Some tools can be used to further reduce access e.g. to media or application use.
 
 ## References
+Androulaki, E., Vo, B. D., & Bellovin, S. M. (2009). Cybersecurity through an identity management system.
