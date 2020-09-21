@@ -13,8 +13,8 @@ Failure to find a method for determining ROI means that security spend is just s
 | --- | --- |
 |EES     |      |
 |PPAA  | |
-|TOM   ||
-|LAGCM ||
+|TOM   |34,35,40|
+|LAGCM |47,48,50,53|
 |RBA   ||
 |GPB   ||
 
@@ -24,3 +24,4 @@ Use a quantitative risk analysis method such as FAIR and adopt metrics which all
 security controls
 
 ## References
+Moore, T., Dynes, S., & Chang, F. R. (2015). Identifying how firms manage cybersecurity investment. Available: Southern Methodist University. Available at: http://blog. smu. edu/research/files/2015/10/SMU-IBM. pdf (Accessed 2015-12-14), 32.
