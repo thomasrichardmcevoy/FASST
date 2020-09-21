@@ -13,7 +13,7 @@ organize the kind of response needed to deal with a full scale attack.
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  | 11|
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -25,3 +25,4 @@ Organizations should build or hire security operations centre capabilities.  Eve
 suppliers such as Amazon have these capabilities at infrastructure level, reducing their responsibilities to monitoring application security.
 
 ## References
+Zimmerman, C. (2014). Cybersecurity Operations Center. The MITRE Corporation.
