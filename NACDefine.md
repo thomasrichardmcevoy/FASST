@@ -11,7 +11,7 @@ attacks.
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  | 11|
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -25,3 +25,4 @@ be able to exclude any devices not capable of doing so.
 
 
 ## References
+López, G., Cánovas, O., Gómez, A. F., Jiménez, J. D., & Marín, R. (2007). A network access control approach based on the AAA architecture and authorization attributes. Journal of Network and Computer Applications, 30(3), 900-919.
