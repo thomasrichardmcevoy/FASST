@@ -13,8 +13,8 @@ existent strategy or by focusing too much on compliance and failing to address i
 | --- | --- |
 |EES     |      |
 |PPAA  | |
-|TOM   ||
-|LAGCM ||
+|TOM   | 34, 35|
+|LAGCM | 47, 48|
 |RBA   ||
 |GPB   ||
 
@@ -25,3 +25,4 @@ solid security strategy and associated enterprise architecture supports this.
 
 
 ## References
+Moore, T., Dynes, S., & Chang, F. R. (2015). Identifying how firms manage cybersecurity investment. Available: Southern Methodist University. Available at: http://blog. smu. edu/research/files/2015/10/SMU-IBM. pdf (Accessed 2015-12-14), 32.
