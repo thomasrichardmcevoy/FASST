@@ -23,7 +23,7 @@ While not all measures need to be deployed, nonetheless failing to deploy a spre
 |Category | Number |
 | --- | --- |
 |EES     |      |
-|PPAA  | |
+|PPAA  |11 |
 |TOM   ||
 |LAGCM ||
 |RBA   ||
@@ -35,3 +35,4 @@ A risk managed approach should be adopted to defeating malware which deploys a r
 heuristic based approaches with patch and vulnerability management.
 
 ## References
+Pelton, J., & Singh, I. B. (2015). Digital defense: A cybersecurity primer. Springer.
